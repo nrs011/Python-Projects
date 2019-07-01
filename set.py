@@ -2,6 +2,6 @@ groceries = {'cereal', 'milk', 'starcrunch', 'beer', 'duct tape', 'lotion', 'bee
 print(groceries)
 
 if 'milk' in groceries:
-    print("You already have hoss!")
+    print("You already have milk!")
 else:
-    print("Oh yeah, you need milk")
+    print("Oh yeah, you need milk.")
